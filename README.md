@@ -10,9 +10,11 @@ The words must be spelled with adjacent letters, and as correct words are formed
 
 ## Usage
 
-`make`  
+```
+make  
 
-`./wordbrainsolver firstwordlist secondwordlist`
+./wordbrainsolver firstwordlist secondwordlist
+```
 
 The firstwordlist is a file containing a small word list, and the secondwordlist is a file containing a more comprehensive word list.
 
@@ -41,6 +43,7 @@ miipb
 ```
 
 #### OUTPUT: solutions.txt
+```
 square hoe 
 .
 bath man panic snow 
@@ -50,3 +53,4 @@ vitamin vampire bedroom post
 vitamin vampire bedroom pots 
 vitamin vampire bedroom stop 
 .
+```
